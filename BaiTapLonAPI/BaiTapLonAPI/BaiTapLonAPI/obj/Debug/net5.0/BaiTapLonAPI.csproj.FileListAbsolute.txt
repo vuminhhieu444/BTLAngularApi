@@ -1,0 +1,492 @@
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\appsettings.json
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\BaiTapLonAPI.exe
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\BaiTapLonAPI.deps.json
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\BaiTapLonAPI.runtimeconfig.json
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\BaiTapLonAPI.runtimeconfig.dev.json
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\BaiTapLonAPI.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ref\BaiTapLonAPI.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\BaiTapLonAPI.pdb
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\BaiTapLonAPI.Views.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\BaiTapLonAPI.Views.pdb
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Humanizer.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.csprojAssemblyReference.cache
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.AssemblyInfoInputs.cache
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.AssemblyInfo.cs
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.csproj.CoreCompileInputs.cache
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.RazorAssemblyInfo.cache
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.RazorAssemblyInfo.cs
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\staticwebassets\BaiTapLonAPI.StaticWebAssets.Manifest.cache
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\staticwebassets\BaiTapLonAPI.StaticWebAssets.xml
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\scopedcss\bundle\BaiTapLonAPI.styles.css
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.TagHelpers.input.cache
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.TagHelpers.output.cache
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.RazorCoreGenerate.cache
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.RazorTargetAssemblyInfo.cache
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.RazorTargetAssemblyInfo.cs
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.Views.pdb
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.csproj.CopyComplete
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\ref\BaiTapLonAPI.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.pdb
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.genruntimeconfig.cache
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\LoaiTuiXaches\Create.cshtml.g.cs
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\LoaiTuiXaches\Delete.cshtml.g.cs
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\LoaiTuiXaches\Details.cshtml.g.cs
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\LoaiTuiXaches\Edit.cshtml.g.cs
+E:\Code C Sharp\CoreAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\LoaiTuiXaches\Index.cshtml.g.cs
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\BaiTapLonAPI.exe
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\BaiTapLonAPI.deps.json
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\BaiTapLonAPI.runtimeconfig.json
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\BaiTapLonAPI.runtimeconfig.dev.json
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\BaiTapLonAPI.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ref\BaiTapLonAPI.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\BaiTapLonAPI.pdb
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\BaiTapLonAPI.Views.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\BaiTapLonAPI.Views.pdb
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.csproj.AssemblyReference.cache
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.AssemblyInfoInputs.cache
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.AssemblyInfo.cs
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.RazorAssemblyInfo.cache
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.RazorAssemblyInfo.cs
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\staticwebassets\BaiTapLonAPI.StaticWebAssets.Manifest.cache
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\staticwebassets\BaiTapLonAPI.StaticWebAssets.xml
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\scopedcss\bundle\BaiTapLonAPI.styles.css
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.TagHelpers.input.cache
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.TagHelpers.output.cache
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.RazorCoreGenerate.cache
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\LoaiTuiXaches\Create.cshtml.g.cs
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\LoaiTuiXaches\Delete.cshtml.g.cs
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\LoaiTuiXaches\Details.cshtml.g.cs
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\LoaiTuiXaches\Edit.cshtml.g.cs
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\LoaiTuiXaches\Index.cshtml.g.cs
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.RazorTargetAssemblyInfo.cs
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.Views.pdb
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.csproj.CopyComplete
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\ref\BaiTapLonAPI.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.pdb
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\obj\Debug\net5.0\BaiTapLonAPI.genruntimeconfig.cache
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\IronPdf.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\IronCefSubprocess.exe
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\IronInterop.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\IronPdf.Native.Chrome.deployment.json
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\chrome_100_percent.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\chrome_200_percent.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\chrome_elf.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\d3dcompiler_47.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\icudtl.dat
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\libEGL.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\libGLESv2.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\libcef.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\am.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\ar.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\bg.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\bn.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\ca.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\cs.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\da.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\de.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\el.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\en-GB.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\en-US.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\es-419.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\es.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\et.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\fa.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\fi.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\fil.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\fr.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\gu.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\he.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\hi.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\hr.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\hu.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\id.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\it.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\ja.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\kn.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\ko.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\lt.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\lv.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\ml.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\mr.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\ms.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\nb.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\nl.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\pl.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\pt-BR.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\pt-PT.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\ro.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\ru.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\sk.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\sl.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\sr.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\sv.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\sw.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\ta.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\te.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\th.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\tr.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\uk.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\vi.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\zh-CN.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\locales\zh-TW.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\pdfium.vanilla.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\resources.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\snapshot_blob.bin
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\swiftshader\libEGL.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\swiftshader\libGLESv2.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\v8_context_snapshot.bin
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\vk_swiftshader.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x64\native\vulkan-1.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\IronCefSubprocess.exe
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\IronInterop.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\IronPdf.Native.Chrome.deployment.json
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\chrome_100_percent.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\chrome_200_percent.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\chrome_elf.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\d3dcompiler_47.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\icudtl.dat
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\libEGL.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\libGLESv2.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\libcef.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\am.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\ar.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\bg.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\bn.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\ca.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\cs.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\da.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\de.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\el.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\en-GB.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\en-US.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\es-419.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\es.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\et.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\fa.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\fi.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\fil.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\fr.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\gu.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\he.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\hi.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\hr.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\hu.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\id.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\it.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\ja.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\kn.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\ko.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\lt.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\lv.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\ml.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\mr.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\ms.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\nb.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\nl.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\pl.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\pt-BR.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\pt-PT.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\ro.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\ru.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\sk.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\sl.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\sr.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\sv.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\sw.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\ta.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\te.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\th.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\tr.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\uk.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\vi.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\zh-CN.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\locales\zh-TW.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\pdfium.vanilla.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\resources.pak
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\snapshot_blob.bin
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\swiftshader\libEGL.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\swiftshader\libGLESv2.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\v8_context_snapshot.bin
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\vk_swiftshader.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win-x86\native\vulkan-1.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hieu Vu\Desktop\BaiTapLonAPI\BaiTapLonAPI\BaiTapLonAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
